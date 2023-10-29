@@ -1,0 +1,8 @@
+﻿  SIC.cpp
+C:\c++\SIC\SIC\SIC.cpp(144,32): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\c++\SIC\SIC\SIC.cpp(166,32): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\c++\SIC\SIC\SIC.cpp(192,32): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\c++\SIC\SIC\SIC.cpp(224,32): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\c++\SIC\SIC\SIC.cpp(311,54): warning C4267: '+=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\c++\SIC\SIC\SIC.cpp(386,69): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  SIC.vcxproj -> C:\c++\SIC\SIC\x64\Debug\SIC.exe
